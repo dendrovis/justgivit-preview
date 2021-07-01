@@ -18,10 +18,10 @@ These roles will not be implementing or fully implemented. It is still a require
 ## Access Guide
 
 ### Web
-1.	Enter this URL in your web browser: <Access-Forbidden> (Please contact the creator of developer).
+1.	Enter this URL in your web browser: <-Access-Forbidden-> (Please contact the creator of developer).
 
 ### Android
-1. Enter this URL in your mobile browser: <Access-Forbidden> (Please contact the creator of developer).
+1. Enter this URL in your mobile browser: <-Access-Forbidden-> (Please contact the creator of developer).
 2. If you have not login.
     1.	Scroll down until you see Android Icon at the footer as shown below.\
     ![Android Logo](/_README_asset/1.png)
