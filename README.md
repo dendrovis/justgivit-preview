@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-BSD--3--Clause-brightgreen.svg)](https://opensource.org/licenses/BSD-3-Clause)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
 # NTU CZ4079 Final Year Project (Preview)
 ## JustGivit: A digital platform for Giving
