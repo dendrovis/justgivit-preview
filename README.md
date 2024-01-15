@@ -23,6 +23,10 @@ To apply software knowledge learnt from this course, and to build a meaningful p
 7. Improve outcomes
 8. Compile into binary file for execution
 
+# Tools
+
+![tools](./README.assets/tools.webp)
+
 ## Highlights
 
 ![main_screen](./README.assets/main_screen.webp)
